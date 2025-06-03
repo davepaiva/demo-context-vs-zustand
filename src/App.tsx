@@ -37,7 +37,7 @@ const App: React.FC = () => {
               <ol style={{ margin: '0', paddingLeft: '20px', color: 'white' }}>
                 <li>Open your browser's developer console</li>
                 <li>Click any button in any component</li>
-                <li>Notice that ALL components log a re-render message</li>
+                <li>Notice that ALL components log a re-render message in the case of the Context API, and only the components that use the changed data log a re-render message in the case of Zustand</li>
                 <li>This happens even for components that don't use the changed data</li>
               </ol>
             </div>
