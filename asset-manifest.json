@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/context-vs-zustand/static/css/main.f855e6bc.css",
+    "main.js": "/context-vs-zustand/static/js/main.69b789df.js",
+    "static/js/453.47feb2eb.chunk.js": "/context-vs-zustand/static/js/453.47feb2eb.chunk.js",
+    "index.html": "/context-vs-zustand/index.html",
+    "main.f855e6bc.css.map": "/context-vs-zustand/static/css/main.f855e6bc.css.map",
+    "main.69b789df.js.map": "/context-vs-zustand/static/js/main.69b789df.js.map",
+    "453.47feb2eb.chunk.js.map": "/context-vs-zustand/static/js/453.47feb2eb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.69b789df.js"
+  ]
+}
